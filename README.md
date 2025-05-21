@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yuval</h1>
 <h3 align="center">A passionate developer from Israel looking to learn new stuff!</h3>
 
-- 🌱 I’m currently learning **DevOps!**
+- 🤖 Currently a **DevOps Engineer!**
 
 - 📫 How to reach me **lyuval1210@gmail.com**
 
